@@ -1,0 +1,6 @@
+{
+  "name": "菇菇栽培研究室",
+  "description": "互動式菇菇原木栽培抽卡、菇菇伴讀計時與學習統計分析、圖鑑收集與自訂工作室。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
